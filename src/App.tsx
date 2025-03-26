@@ -40,7 +40,6 @@ function App() {
 
     }, [units, city])
 
-
     return (
         <div className="App">
 
