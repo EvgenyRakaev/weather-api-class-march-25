@@ -13,7 +13,7 @@ export interface WeatherData {
     description: string;
     iconUrl: string;
 }
-
+//
 type Units = "metric" | "imperial"
 const API_key: string = "f3f715f6b264b2334623111bc901b583"
 

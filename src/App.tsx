@@ -20,6 +20,7 @@ import {WeatherData} from "./WeatherService";
 //     description: string;
 //     iconUrl: string;
 // }
+//
 
 // type разные данные
 type Units = "metric" | "imperial";
